@@ -1,9 +1,0 @@
-
-[
-java:S11249"EReorder the modifiers to comply with the Java Language Specification.(Žö÷â
-[
-java:S1124T"EReorder the modifiers to comply with the Java Language Specification.(Ñšè±
-2
-java:S3626â"Remove this redundant jump.(ûÁÝ…
-R	java:S125ß"<This block of commented-out lines of code should be removed.(™÷ŒÜ
-=	java:S131þ""Add a default case to this switch.(øå´¡ÿÿÿÿÿ
