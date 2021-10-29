@@ -1,0 +1,39 @@
+
+[
+java:S11244"EReorder the modifiers to comply with the Java Language Specification.(ú¿èá
+[
+java:S11247"EReorder the modifiers to comply with the Java Language Specification.(õõÊ‚
+[
+java:S1124H"EReorder the modifiers to comply with the Java Language Specification.(ºˆšÛ
+[
+java:S1124W"EReorder the modifiers to comply with the Java Language Specification.(‡´äÖ
+`
+java:S1124u"EReorder the modifiers to comply with the Java Language Specification.(¼Ì¯¹ùÿÿÿÿ
+F
+java:S1172­"*Remove this unused method parameter "uri".(‡ñÜ†üÿÿÿÿ
+a
+java:S1124­"EReorder the modifiers to comply with the Java Language Specification.(‡ñÜ†üÿÿÿÿ
+\
+java:S1124Ä"EReorder the modifiers to comply with the Java Language Specification.(üÛª”
+W	java:S125å"<This block of commented-out lines of code should be removed.(Û„½£øÿÿÿÿ
+\
+java:S1124ï"EReorder the modifiers to comply with the Java Language Specification.(¼º·Ö
+b	java:S128þ"LEnd this switch case with an unconditional break, return or throw statement.(¬Éõï
+g
+java:S2638¨"KRemove this "NonNull" annotation to honor the overridden method's contract.(ŒùÌ„úÿÿÿÿ
+a
+java:S1124§"EReorder the modifiers to comply with the Java Language Specification.(‘¡‡†þÿÿÿÿ
+b	java:S128»"LEnd this switch case with an unconditional break, return or throw statement.(¬Éõï
+W	java:S125Ê"<This block of commented-out lines of code should be removed.(ÿ€´ýüÿÿÿÿ
+R
+java:S1172ã"6Remove this unused method parameter "contentObserver".(»Û£âüÿÿÿÿ
+e
+java:S1128"CRemove this unused import 'android.database.sqlite.SQLiteDatabase'.(ãµèÈùÿÿÿÿ8û£ÇèÌ/
+U
+java:S1128"9Remove this unused import 'android.provider.BaseColumns'.(Â§ñ8û£ÇèÌ/
+U
+java:S1128"3Remove this unused import 'android.text.TextUtils'.(û˜½Õøÿÿÿÿ8û£ÇèÌ/
+\
+java:S1192"FDefine a constant instead of duplicating this literal " AND " 3 times.(‚âÝ=
+b
+java:S1301Ç"KReplace this "switch" statement by "if" statements to increase readability.(õ°ÃÙ
